@@ -1,0 +1,7 @@
+Was ist die Wurzel aus 144? ,12
+What does CPU stand for? ,central processing unit
+What does GPU stand for? ,graphics processing unit
+What does RAM stand for? ,random access memory
+What does PSU stand for? ,power supply
+
+
